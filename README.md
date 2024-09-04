@@ -19,9 +19,9 @@ To achieve the objectives, the following tasks were performed:
 
 This project was developed using Python 3 in Jupyter Notebook and Google Colab Pro environments. The following libraries were essential for processing, analysis, and visualizations:
 
-OpenCV and PIL: For image processing and manipulation.
-Ultralytics: Used for object detection to track and identify Snow Petrels in the images.
-Tesseract OCR and EasyOCR: For extracting embedded metadata (e.g., camera ID, timestamps) from the images.
-Pandas and NumPy: For managing and processing both textual and numerical datasets.
-Scikit-learn: For training machine learning models, such as Random Forest and Gradient Boosting.
-Matplotlib and Seaborn: Used to generate visualizations.
+1. OpenCV and PIL: For image processing and manipulation.
+2. Ultralytics: Used for object detection to track and identify Snow Petrels in the images.
+3. Tesseract OCR and EasyOCR: For extracting embedded metadata (e.g., camera ID, timestamps) from the images.
+4. Pandas and NumPy: For managing and processing both textual and numerical datasets.
+5. Scikit-learn: For training machine learning models, such as Random Forest and Gradient Boosting.
+6. Matplotlib and Seaborn: Used to generate visualizations.
